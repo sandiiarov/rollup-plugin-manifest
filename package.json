@@ -1,0 +1,23 @@
+{
+  "name": "rollup-plugin-manifest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandiiarov/rollup-plugin-manifest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandiiarov/rollup-plugin-manifest/issues"
+  },
+  "homepage": "https://github.com/sandiiarov/rollup-plugin-manifest#readme",
+  "devDependencies": {
+    "rollup": "^0.66.6"
+  }
+}
