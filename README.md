@@ -16,10 +16,10 @@ Example manifest:
 ```js
 import manifest from "./rollup-plugin-manifest";
 
-rollup({
-  entry: "main.js",
+export default {
+  input: "src/index.js",
   plugins: [manifest()]
-});
+};
 ```
 
 ## TODO
